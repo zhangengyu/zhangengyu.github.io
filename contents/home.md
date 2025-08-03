@@ -12,7 +12,7 @@ I am an undergraduate student at Shenzhen University, pursuing a dual degree in 
 • RANK: 1
 
 #### Internship Experience
-• HUAWEI--AI Engineer:2025.08~present
+• HUAWEI--AI Engineer:2025.08-present
 • Tencent--Data Analysis and System Development Intern:2025.03~2025.07
 
 #### Research Interests  
