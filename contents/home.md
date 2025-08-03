@@ -6,7 +6,7 @@ I am an undergraduate student at Shenzhen University, pursuing a dual degree in 
 
 #### Education  
 **Shenzhen University**, Currently pursuing a bachelor's degree(2023-2027).  
-• GPA: 3.92/4.50  
+• GPA: 3.92/4.50<br>
 • RANK: 1
 
 #### Internship Experience
