@@ -1,3 +1,16 @@
+### **AI Algorithm Engineer**  
+**2025.08 – present | Huawei(Pangu)**  
+
+#### Key Responsibilities:
+- Through enhancements to the Pangu Prediction Large Model 2.0, we have successfully improved the model's accuracy and efficiency. This provides partner enterprises with highly effective predictive support, helping them optimise decision-making processes and enhance operational efficiency.
+---
+### **AI工程师**  
+**2025.08 – 至今 | 华为-盘古大模型**  
+
+#### 主要贡献:
+- 通过改进盘古预测大模型2.0，成功提升了模型的精度和效率，为合作企业提供了高效的预测支持，助力其优化决策过程并提高业务运营效率。
+---
+
 ### **Data Analysis and System Development Intern**  
 **2025.03 – 2025.07 | Tencent(CDG)**  
 
